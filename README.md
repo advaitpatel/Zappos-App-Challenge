@@ -20,3 +20,4 @@ If you completed the above challenge with ease, try this:
 “Share” a product to nearby friends who have your app running on their phone such that they are able to view the same product (when clicking on the shared link or some other awesome magical way) 
 Provide the release build .apk file along with a public git repository url for viewing the source code. Title your project ILoveNougat :) 
 
+
